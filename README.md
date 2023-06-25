@@ -38,7 +38,7 @@ Build Instructions
 * [How to build Mozc in OS X](docs/build_mozc_in_osx.md): OS X build.
 * [How to build Mozc in Windows](docs/build_mozc_in_windows.md): Windows build.
 
-Release Plan
+Release Plan 
 ------------
 
 tl;dr. **There is no stable version.**
